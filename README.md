@@ -36,7 +36,7 @@ PROBLEMS TACKLED:
 2.Popular stations and trip
   a.most common start station
   b.most common end station
-  c.most common trip from start to end 
+  c.most common trip from start to end
 3.Trip duration
   a.total travel time
   b.average travel time
