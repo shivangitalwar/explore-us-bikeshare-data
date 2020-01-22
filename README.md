@@ -1,6 +1,7 @@
 This project makes use to python to explore us bikehare data.
 
 BIKESHARE DATA
+
 bikeshare system allows a user to rent bike for short term basis.The user can borrow bike from point 1 and leave it at point 2 ,
 from where some other user can pick it up.Thus each bike can have several users a day.
 
@@ -8,6 +9,7 @@ In this project the data is used to conclude bikehshare usage patterns.The data 
 large cities: Chicago, New York City, and Washington, DC.
 
 THE DATASETS
+
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain
 the same core six (6) columns:
 
